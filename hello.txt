@@ -1,1 +1,2 @@
 This is an updated text file.
+Adding second line.
